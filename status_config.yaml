@@ -1,0 +1,17 @@
+defaults:
+  - emoji: ":spiral_calendar_pad:"
+    text: "In a meeting"
+  - emoji: ":bus:"
+    text: "Commuting"
+  - emoji: ":face_with_thermometer:"
+  - text: "Out sick"
+  - emoji: ":palm_tree:"
+    text: "Vacationing"
+  - emoji: ":house:"
+    text: "Working remotely"
+  - emoji: ":no_entry:"
+    text: "Out of office"
+integrations:
+group_ids:
+  - "S123456"
+  - "S234566"
