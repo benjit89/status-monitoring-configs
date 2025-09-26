@@ -12,5 +12,7 @@ defaults:
   - emoji: ":no_entry:"
     text: "Out of office"
 integrations:
+- app: "Outlook Calendar"
+- app: "Google Calendar" 
 group_ids:
   - "S09FVUZRWUT"
